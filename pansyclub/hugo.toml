@@ -1,0 +1,4 @@
+baseURL = 'https://pansyclub.github.io/'
+languageCode = 'en-us'
+title = 'Pansy Club'
+theme = 'hugo-theme-terminal'

@@ -1,0 +1,6 @@
+[submodule "pansyclub/themes/themes/hugo-theme-terminal"]
+	path = pansyclub/themes/themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "pansyclub/themes/hugo-theme-terminal"]
+	path = pansyclub/themes/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
