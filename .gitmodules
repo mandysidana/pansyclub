@@ -4,3 +4,7 @@
 [submodule "pansyclub/themes/hugo-theme-terminal"]
 	path = pansyclub/themes/hugo-theme-terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "pansyclub/public"]
+	path = pansyclub/public
+	url = https://github.com/mandysidana/pansyclub.github.io.git
+	branch = main
