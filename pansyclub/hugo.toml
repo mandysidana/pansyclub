@@ -2,3 +2,34 @@ baseURL = 'https://pansyclub.github.io/'
 languageCode = 'en-us'
 title = 'Pansy Club'
 theme = 'hugo-theme-terminal'
+
+[params]
+  showMenuItems = 5
+  fullWidthTheme = true
+  logo = { logoText = "Pansy Club", logoHomeLink = "/" }
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 1
+[[menu.main]]
+  identifier = "events"
+  name = "Events"
+  url = "/events"
+  weight = 2
+[[menu.main]]
+  identifier = "memberships"
+  name = "Memberships"
+  url = "/memberships"
+  weight = 3
+[[menu.main]]
+  identifier = "connect"
+  name = "Connect"
+  url = "/connect"
+  weight = 4
+[[menu.main]]
+  identifier = "community"
+  name = "Community"
+  url = "/community"
+  weight = 5
