@@ -1,4 +1,4 @@
-baseURL = 'https://pansyclub.github.io/'
+baseURL = '2lavenders.online'
 languageCode = 'en-us'
 title = 'Pansy Club'
 theme = 'hugo-theme-terminal'
@@ -6,7 +6,6 @@ theme = 'hugo-theme-terminal'
 [params]
   showMenuItems = 5
   fullWidthTheme = true
-  logo = { logoText = "Pansy Club", logoHomeLink = "/" }
 
 [[menu.main]]
   identifier = "about"
