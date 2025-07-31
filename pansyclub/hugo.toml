@@ -7,6 +7,9 @@ theme = 'hugo-theme-terminal'
   showMenuItems = 5
   fullWidthTheme = true
 
+[params.Logo]
+  logoText = "Pansy Club"
+
 [[menu.main]]
   identifier = "about"
   name = "About"
