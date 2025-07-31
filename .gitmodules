@@ -1,6 +1,4 @@
-[submodule "pansyclub/themes/themes/hugo-theme-terminal"]
-	path = pansyclub/themes/themes/hugo-theme-terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
+
 [submodule "pansyclub/themes/hugo-theme-terminal"]
 	path = pansyclub/themes/hugo-theme-terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
@@ -8,3 +6,6 @@
 	path = pansyclub/public
 	url = https://github.com/mandysidana/pansyclub.github.io.git
 	branch = main
+[submodule "2pansyclub"]
+	path = 2pansyclub
+	url = https://github.com/zeon-studio/hugoplate.git
