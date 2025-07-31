@@ -6,6 +6,3 @@
 	path = pansyclub/public
 	url = https://github.com/mandysidana/pansyclub.github.io.git
 	branch = main
-[submodule "2pansyclub"]
-	path = 2pansyclub
-	url = https://github.com/zeon-studio/hugoplate.git
